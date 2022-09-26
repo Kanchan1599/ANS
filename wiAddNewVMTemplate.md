@@ -44,7 +44,7 @@
 ## Infrastucture(Image Mapping) in vRA
 
 
-  - Step 1.1
+- Step 1.1
   
   
   ### Note:
