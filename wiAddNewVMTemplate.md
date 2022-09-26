@@ -8,7 +8,7 @@
 - [Scope](#Scope)
 - [Steps](#Steps)
 - [Prerequisites](#Prerequisties)
-- [Infrastucture(Image Mapping) in vRA](#Infrastucture(Image Mapping) in vRA)
+- [Infrastucture(Image Mapping) in vRA](#Infrastucture(Image-Mapping)-in-vRA)
 
 ## Changelog
   
