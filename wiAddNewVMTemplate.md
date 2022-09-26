@@ -46,17 +46,17 @@
 
 ## Template validation in vcenter
 
--Step 1.1
+- Step 1.1
 
- - customer should make new vm template available in vcenter. 
+  - customer should make new vm template available in vcenter. 
     
--Step 1.2
+- Step 1.2
 
- - all the changes or modifition to the template will be in customer scope.
+  - all the changes or modifition to the template will be in customer scope.
     
--Step 1.3
+- Step 1.3
 
- - root password on the template should be same as for the existing template.
+  - root password on the template should be same as for the existing template.
 
 ## Step 2
 
@@ -66,12 +66,7 @@
     
     - For Adding new VM template in Blueprint , Log on to VRA Service Broker
   
-  
-  ### Note:
-  - customer should make new vm template available in vcenter 
-  - all the changes or modifition to the template will be in customer scope
-  - root password on the template should be same as for the existing template
-
+ 
   
 
       
