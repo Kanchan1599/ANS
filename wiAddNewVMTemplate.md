@@ -27,6 +27,7 @@
 ## Steps
 
    There are two places where we have to make changes-
+   
    1.Infrastucture(Image Mapping) in vRA
    2.Apply Image in Blueprint
    
