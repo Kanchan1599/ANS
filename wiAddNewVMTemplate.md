@@ -8,6 +8,7 @@
 - [Scope](#Scope)
 - [Steps](#Steps)
 - [Prerequisites](#Prerequisties)
+- [Template validation in vcenter](#Template-validation-in-vcenter)
 - [Infrastucture(Image Mapping) in vRA](#Infrastucture(Image-Mapping)-in-vRA)
 
 ## Changelog
@@ -29,9 +30,11 @@
 
    There are two places where we have to make changes-
    
-   1. Infrastucture(Image Mapping) in vRA
+   1. Template validation in vcenter
    
-   2. Apply Image in Blueprint
+   2. Infrastucture(Image Mapping) in vRA
+   
+   3. Apply Image in Blueprint
    
 ## Prerequisites
 
@@ -41,15 +44,34 @@
   
 ## Step 1
 
+## Template validation in vcenter
+
+-Step 1.1
+
+    - customer should make new vm template available in vcenter. 
+    
+-Step 1.2
+
+    - all the changes or modifition to the template will be in customer scope.
+    
+-Step 1.3
+
+    - root password on the template should be same as for the existing template.
+
+## Step 2
+
 ## Infrastucture(Image Mapping) in vRA
 
-
-- Step 1.1
+- Step 2.1
+    
+    - For Adding new VM template in Blueprint , Log on to VRA Service Broker
   
   
   ### Note:
- 
-   - Before Starting below steps need to check whether VM Template is available in vcenter or not if its available then start with adding of new VM template.
+  - customer should make new vm template available in vcenter 
+  - all the changes or modifition to the template will be in customer scope
+  - root password on the template should be same as for the existing template
+
   
 
       
