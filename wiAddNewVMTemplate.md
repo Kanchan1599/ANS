@@ -28,15 +28,15 @@
 
    There are two places where we have to make changes-
    
-      1.Infrastucture(Image Mapping) in vRA
+     1.Infrastucture(Image Mapping) in vRA
    
-      2.Apply Image in Blueprint
+     2.Apply Image in Blueprint
    
 ## Prerequisites
 
   Prerequisites to Add New VM Templae.
 
-      1.Access to both tenants ans-mar-01 & ans-cly01 in VRA.
+     1.Access to both tenants ans-mar-01 & ans-cly01 in VRA.
   
 ## Step 1
 
