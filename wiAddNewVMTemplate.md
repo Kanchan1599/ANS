@@ -20,3 +20,15 @@
 ### Purpose
    
    The purpose of this document is to create step by step instructions for adding New VM Tamplate in blueprints as per customer request.
+### Scope
+
+   Adding New VM Template in both ANS-MAR & ANS-CLY Environment. Notes- Customer may request addition of new VM Template in one site or both the sites.
+   
+## Steps
+
+   There are two places where we have to make changes-
+   1.Infrastucture(Image Mapping) in vRA
+   2.Apply Image in Blueprint
+   
+## Prerequisites
+
