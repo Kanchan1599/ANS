@@ -44,10 +44,13 @@
 ## Infrastucture(Image Mapping) in vRA
 
 
+  - Step 1.1
+  
+  
   ### Note:
  
    - Before Starting below steps need to check whether VM Template is available in vcenter or not if its available then start with adding of new VM template.
   
-- Step 1.1
+
       
 
