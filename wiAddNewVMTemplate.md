@@ -48,15 +48,15 @@
 
 -Step 1.1
 
-    - customer should make new vm template available in vcenter. 
+ - customer should make new vm template available in vcenter. 
     
 -Step 1.2
 
-    - all the changes or modifition to the template will be in customer scope.
+ - all the changes or modifition to the template will be in customer scope.
     
 -Step 1.3
 
-    - root password on the template should be same as for the existing template.
+ - root password on the template should be same as for the existing template.
 
 ## Step 2
 
