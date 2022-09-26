@@ -8,7 +8,7 @@
 - [Scope](#Scope)
 - [Steps](#Steps)
 - [Prerequisites](#Prerequisties)
-- [Step 1](#Step 1)
+- [Infrastucture(Image Mapping) in vRA](#Infrastucture(Image Mapping) in vRA)
 
 ## Changelog
   
@@ -41,10 +41,12 @@
   
 ## Step 1
 
+## Infrastucture(Image Mapping) in vRA
 
-### Note:
+
+  ### Note:
  
-  - Before Starting below steps need to check whether VM Template is available in vcenter or not if its available then start with adding of new VM template.
+    - Before Starting below steps need to check whether VM Template is available in vcenter or not if its available then start with adding of new VM template.
   
   - Step 1.1
       
