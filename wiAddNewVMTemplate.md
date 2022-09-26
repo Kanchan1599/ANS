@@ -8,6 +8,7 @@
 - [Scope](#Scope)
 - [Steps](#Steps)
 - [Prerequisites](#Prerequisties)
+- [Step 1](#Step 1)
 
 ## Changelog
   
@@ -19,7 +20,7 @@
 
 ### Purpose
    
-   The purpose of this document is to create step by step instructions for adding New VM Tamplate in blueprints as per customer request.
+   The purpose of this document is to create step by step instructions for adding New VM Template in blueprints as per customer request.
 ### Scope
 
    Adding New VM Template in both ANS-MAR & ANS-CLY Environment. Notes- Customer may request addition of new VM Template in one site or both the sites.
@@ -43,5 +44,8 @@
 
 ### Note:
  
-  - 
+  - Before Starting below steps need to check whether VM Template is available in vcenter or not if its available then start with adding of new VM template.
+  
+  - Step 1.1
+      
 
