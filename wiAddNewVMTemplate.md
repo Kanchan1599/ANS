@@ -10,12 +10,13 @@
 - [Prerequisites](#Prerequisties)
 - [Template validation in vcenter](#Template-validation-in-vcenter)
 - [Infrastucture(Image Mapping) in vRA](#Infrastucture(Image-Mapping)-in-vRA)
+- [Apply Image in Blueprint](#Apply-Image-in-Blueprint)
 
 ## Changelog
   
 | Version | Date       | Description      | Author       |
 | ------- | ---------- | ---------------- | -------------|
-| 0.1     | 21/09/2022 | Adding New VM Template In ANS-MAR & CLY  | Pardeshi Kanchan |
+| 0.1     | 27/09/2022 | Adding New VM Template In ANS-MAR & CLY  | Pardeshi Kanchan |
 
 ## Introduction
 
