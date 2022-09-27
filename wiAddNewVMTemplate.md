@@ -135,10 +135,19 @@
   
   - Step 3.7
   
-    - Once it gets Validated then go to catalog and open catalog form which was clone by the given name and then we will be able to see image in that catalog
+    - Once it gets Validated then go to catalog and open catalog for which was clone by the given name and then we will be able to see image in that catalog
+    
+    - Once done with all process once deploy once and check whether its working properly
     
   ![Figure 1](images/VMTemplate11.PNG)
   
+## Note
+
+  - Once proper testing has to be done for vm provisioning using that template in DEV blueprint only
+
+  - If all testing are ok, then only that tempalte can be made available in PRD blueprint..
+  
+  - Without end2end testing of new template in DEV blueprint it cant be deployed in PRD blueprint
 
  
   
