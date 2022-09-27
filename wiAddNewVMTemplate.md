@@ -67,7 +67,17 @@
     - For Adding new VM template in Blueprint , Log on to VRA Cloud Assembly
  
  ![Figure 1](images/VMTemplate1.png)
-  
+ 
+- Step 2.2
+
+    - For mapping of Image, Select Infrastucture 
+    - Click on Image Mapping, And Add new image mapping
+    
+ ![Figure 1](images/VMTemplate1.png)
+ 
+- Step 2.3
+
+    - 
  
   
 
