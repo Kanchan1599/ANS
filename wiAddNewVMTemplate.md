@@ -49,15 +49,15 @@
 
 - Step 1.1
 
-  - customer should make new vm template available in vcenter. 
+  - Customer should make new vm template available in vcenter. 
     
 - Step 1.2
 
-  - all the changes or modifition to the template will be in customer scope.
+  - All the changes or modifition to the template will be in customer scope.
     
 - Step 1.3
 
-  - root password on the template should be same as for the existing template.
+  - Root password on the template should be same as for the existing template.
 
 ## Step 2
 
@@ -65,7 +65,7 @@
 
 - Step 2.1
     
-    - For Adding new VM template in Blueprint , Log on to VRA Cloud Assembly
+    - For Adding new VM template in Blueprint, Log on to VRA Cloud Assembly.
  
  ![Figure 1](images/VMTemplate1.PNG)
  
