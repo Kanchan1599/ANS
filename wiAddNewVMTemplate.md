@@ -66,7 +66,7 @@
     
     - For Adding new VM template in Blueprint , Log on to VRA Cloud Assembly
  
- ![Figure 1](images/updatingpuppetroles/AddPuppetRolePic.1.png)
+ ![Figure 1](images/VMTemplate1.png)
   
  
   
