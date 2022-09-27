@@ -117,9 +117,29 @@
   
   - Step 3.4
   
+    - Once Successfully Clone, then go to service broker 
+    
+  ![Figure 1](images/VMTemplate8.PNG)
   
- 
- 
+  - Step 3.5
+  
+    - Click on Content & Policies, then go to Content Sources
+    
+  ![Figure 1](images/VMTemplate9.PNG)
+  
+  - Step 3.6
+  
+    - Just Validate it once and then Save & Import
+    
+  ![Figure 1](images/VMTemplate10.PNG)
+  
+  - Step 3.7
+  
+    - Once it gets Validated then go to catalog and open catalog form which was clone by the given name and then we will be able to see image in that catalog
+    
+  ![Figure 1](images/VMTemplate11.PNG)
+  
+
  
   
 
