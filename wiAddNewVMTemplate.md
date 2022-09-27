@@ -1,4 +1,4 @@
-# Updating Puppet Roles/Tags
+# Add New VM Template
 
 ## Table of Contents
 
@@ -147,7 +147,7 @@
 
   - If all testing are ok, then only that tempalte can be made available in PRD blueprint..
   
-  - Without end2end testing of new template in DEV blueprint it cant be deployed in PRD blueprint
+  - Without end to end testing of new template in DEV blueprint it cant be deployed in PRD blueprint
 
  
   
