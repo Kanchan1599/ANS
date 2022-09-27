@@ -15,7 +15,7 @@
   
 | Version | Date       | Description      | Author       |
 | ------- | ---------- | ---------------- | -------------|
-| 0.1     | 21/09/2022 | Updating Puppet Roles In ANS-MAR & CLY  | Pardeshi Kanchan |
+| 0.1     | 21/09/2022 | Adding New VM Template In ANS-MAR & CLY  | Pardeshi Kanchan |
 
 ## Introduction
 
@@ -78,7 +78,29 @@
  
 - Step 2.3
 
-    - 
+    - Give the Image Name and in Configuration according to region search for Image as Image name which is given 
+    
+    - Click on create 
+    
+ ![Figure 1](images/VMTemplate3.PNG)
+ 
+- Step 2.4
+
+    - After Creation it will be visible in Image Mapping 
+
+ ![Figure 1](images/VMTemplate4.PNG)
+ 
+## Step 3
+
+## Apply Image in Blueprint
+
+ - Step 3.1
+
+    - For Appling Image Mapping go to Design, and select your blueprint and Add New image mapping in input of Image
+    
+ ![Figure 1](images/VMTemplate5.PNG)
+ 
+ 
  
   
 
