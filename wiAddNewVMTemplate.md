@@ -70,10 +70,11 @@
  
 - Step 2.2
 
-    - For mapping of Image, Select Infrastucture 
+    - For mapping of Image, Select Infrastucture
+     
     - Click on Image Mapping, And Add new image mapping
     
- ![Figure 1](images/VMTemplate1.png)
+ ![Figure 1](images/VMTemplate2.png)
  
 - Step 2.3
 
