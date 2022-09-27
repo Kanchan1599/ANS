@@ -64,7 +64,9 @@
 
 - Step 2.1
     
-    - For Adding new VM template in Blueprint , Log on to VRA Service Broker
+    - For Adding new VM template in Blueprint , Log on to VRA Cloud Assembly
+ 
+ ![Figure 1](images/updatingpuppetroles/AddPuppetRolePic.1.png)
   
  
   
