@@ -101,6 +101,24 @@
     
  ![Figure 1](images/VMTemplate5.PNG)
  
+ - Step 3.2
+ 
+    - Once bluprint is ready just go to Actions and Clone it 
+    
+ ![Figure 1](images/VMTemplate6.PNG)
+ 
+ - Step 3.3
+
+    - Give the Name to cloned Blueprint After that select project 
+    
+    - Click on Clone
+    
+  ![Figure 1](images/VMTemplate7.PNG)
+  
+  - Step 3.4
+  
+  
+ 
  
  
   
