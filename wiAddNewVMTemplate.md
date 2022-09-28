@@ -103,21 +103,13 @@
  
  - Step 3.2
  
-    - Once bluprint is ready just go to Actions and Clone it 
+    - Once bluprint is ready just go and create version of it and add proper description for it and click on check box of release version to catalog and click on create .
     
- ![Figure 1](images/VMTemplate6.PNG)
+ ![Figure 1](images/VMTemplate12.PNG)
  
- - Step 3.3
-
-    - Give the Name to cloned Blueprint After that select project 
-    
-    - Click on Clone
-    
-  ![Figure 1](images/VMTemplate7.PNG)
+  - Step 3.3
   
-  - Step 3.4
-  
-    - Once Successfully Clone, then go to service broker 
+    - After creating version, then go to service broker 
     
   ![Figure 1](images/VMTemplate8.PNG)
   
@@ -135,9 +127,9 @@
   
   - Step 3.7
   
-    - Once it gets Validated then go to catalog and open catalog for which was clone by the given name and then we will be able to see image in that catalog
+    - Once it gets Validated then go to catalog and open catalog in which you have created version and then we will be able to see image in that catalog
     
-    - Once done with all process once deploy once and check whether its working properly
+    - Once done with all process once deploy once and check whether its working properly.
     
   ![Figure 1](images/VMTemplate11.PNG)
   
