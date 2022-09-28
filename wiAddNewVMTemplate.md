@@ -6,7 +6,6 @@
 - [Introduction](#Introduction)
 - [Purpose](#Purpose)
 - [Scope](#Scope)
-- [Steps](#Steps)
 - [Prerequisites](#Prerequisties)
 - [Template validation in vcenter](#Template-validation-in-vcenter)
 - [Infrastucture(Image Mapping) in vRA](#Infrastucture(Image-Mapping)-in-vRA)
@@ -26,16 +25,6 @@
 ### Scope
 
    Adding New VM Template in both ANS-MAR & ANS-CLY Environment. Notes- Customer may request addition of new VM Template in one site or both the sites.
-   
-## Steps
-
-   There are three steps We need to perform-
-   
-   1. Template validation in vcenter
-   
-   2. Infrastucture(Image Mapping) in vRA
-   
-   3. Apply Image in Blueprint
    
 ## Prerequisites
 
