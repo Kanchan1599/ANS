@@ -45,11 +45,11 @@
 
 ## Template validation in vcenter
 
- - Customer should make new vm template available in vcenter. 
+ 1.Customer should make new vm template available in vcenter. 
 
- - All the changes or modifition to the template will be in customer scope.
+ 2.All the changes or modifition to the template will be in customer scope.
 
- - Root password on the template should be same as for the existing template.
+ 3.Root password on the template should be same as for the existing template.
 
 ## Infrastucture(Image Mapping) in vRA
     
