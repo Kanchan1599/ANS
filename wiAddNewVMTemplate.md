@@ -79,7 +79,7 @@
  
 - Step 2.3
 
-    - Give the Image Name and in Configuration select the region where image is availble and then in image we should select perticular image. 
+    - Give the Image Name and in Configuration select the region where image is availble and then in image we should select particular image. 
     
     - Click on create 
     
@@ -103,7 +103,7 @@
  
  - Step 3.2
  
-    - Once bluprint is ready just go and create version of it and add proper description for it and click on check box of release version to catalog and click on create .
+    - Once blueprint is ready just go and create version of it and add proper description for it and click on check box of release version to catalog and click on create .
     
  ![Figure 1](images/VMTemplate12.PNG)
  
@@ -129,7 +129,7 @@
   
     - Once it gets Validated then go to catalog and open catalog in which you have created version and then we will be able to see image in that catalog
     
-    - Once done with all process once deploy once and check whether its working properly.
+    - Once done with all process once deploy and check whether its working properly.
     
   ![Figure 1](images/VMTemplate11.PNG)
   
