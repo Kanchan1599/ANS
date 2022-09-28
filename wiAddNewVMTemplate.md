@@ -93,11 +93,11 @@
  
 ## Step 3
 
-## Apply Image in Blueprint
+## Configure Image in Blueprint
 
  - Step 3.1
 
-    - For Appling Image Mapping go to Design, and select your blueprint and Add New image mapping in input of Image
+    - To Configure Image go to Design, and select your blueprint and Add New image mapping under image variable.
     
  ![Figure 1](images/VMTemplate5.PNG)
  
