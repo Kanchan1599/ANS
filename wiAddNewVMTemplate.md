@@ -79,7 +79,7 @@
  
 - Step 2.3
 
-    - Give the Image Name and in Configuration according to region search for Image as Image name which is given 
+    - Give the Image Name and in Configuration select the region where image is availble and then in image we should select perticular image. 
     
     - Click on create 
     
