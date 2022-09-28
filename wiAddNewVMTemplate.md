@@ -29,7 +29,7 @@
    
 ## Steps
 
-   There are two places where we have to make changes-
+   There are three steps We need to perform-
    
    1. Template validation in vcenter
    
@@ -41,7 +41,7 @@
 
   Prerequisites to Add New VM Templae.
 
-  1. Access to both tenants ans-mar-01 & ans-cly01 in VRA.
+  1. Access to respective tenants (eg-ans-mar-01 , ans-cly01) in VRA.
   
 ## Step 1
 
