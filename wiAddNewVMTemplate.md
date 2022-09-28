@@ -53,45 +53,45 @@
 
 ## Infrastucture(Image Mapping) in vRA
     
-    - For Adding new VM template in Blueprint, Log on to VRA Cloud Assembly.
+ - For Adding new VM template in Blueprint, Log on to VRA Cloud Assembly.
  
  ![Figure 1](images/VMTemplate1.PNG)
 
-    - For mapping of Image, Select Infrastucture Click on Image Mapping, And Add new image mapping
+ - For mapping of Image, Select Infrastucture Click on Image Mapping, And Add new image mapping
     
  ![Figure 1](images/VMTemplate2.PNG)
 
-    - Give the Image Name and in Configuration select the region where image is availble and then in image we should select particular image and Click on create 
+ - Give the Image Name and in Configuration select the region where image is availble and then in image we should select particular image and Click on create 
     
  ![Figure 1](images/VMTemplate3.PNG)
 
-    - After Creation it will be visible in Image Mapping 
+ - After Creation it will be visible in Image Mapping 
 
  ![Figure 1](images/VMTemplate4.PNG)
 
 ## Configure Image in Blueprint
 
-    - To Configure Image go to Design, and select your blueprint and Add New image mapping under image variable.
+ - To Configure Image go to Design, and select your blueprint and Add New image mapping under image variable.
     
  ![Figure 1](images/VMTemplate5.PNG)
  
-    - Once blueprint is ready just go and create version of it and add proper description for it and click on check box of release version to catalog and click on create .
+ - Once blueprint is ready just go and create version of it and add proper description for it and click on check box of release version to catalog and click on create .
     
  ![Figure 1](images/VMTemplate12.PNG)
   
-    - After creating version, then go to service broker 
+ - After creating version, then go to service broker 
     
   ![Figure 1](images/VMTemplate8.PNG)
   
-    - Click on Content & Policies, then go to Content Sources
+ - Click on Content & Policies, then go to Content Sources
     
   ![Figure 1](images/VMTemplate9.PNG)
   
-    - Just Validate it once and then Save & Import
+ - Just Validate it once and then Save & Import
     
   ![Figure 1](images/VMTemplate10.PNG)
   
-    - Once it gets Validated then go to catalog and open catalog in which you have created version and then we will be able to see image in that catalog, Once done with all process once deploy and check whether its working properly.
+ - Once it gets Validated then go to catalog and open catalog in which you have created version and then we will be able to see image in that catalog, Once done with all process once deploy and check whether its working properly.
     
   ![Figure 1](images/VMTemplate11.PNG)
   
